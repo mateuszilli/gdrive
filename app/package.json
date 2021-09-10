@@ -1,0 +1,16 @@
+{
+  "name": "@mateuszilli/gdrive-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx http-server src"
+  },
+  "keywords": [],
+  "author": "mateuszilli",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
